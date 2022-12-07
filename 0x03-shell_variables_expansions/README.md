@@ -1,1 +1,1 @@
-Shell init variables describing each script
+Shell, init files, variables and expansions
